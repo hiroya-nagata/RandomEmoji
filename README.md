@@ -1,7 +1,7 @@
-#RandomEmoji
+# RandomEmoji
 A command that prints a randomly selected emoji
 
-##Usage
+## Usage
 
 ```
 ./randomEmoji.sh
